@@ -6,6 +6,7 @@ import { SectionManager } from './section-manager.js';
 import { HeaderManager } from './header-manager.js';
 import { GitHubProjectsManager } from './github-projects-manager.js';
 import { FooterManager } from './footer-manager.js';
+import { AnimationsManager } from './animations.js';
 
 class PortfolioApp {
     constructor() {
@@ -16,6 +17,7 @@ class PortfolioApp {
         this.headerManager = new HeaderManager();
         this.githubProjectsManager = new GitHubProjectsManager();
         this.footerManager = new FooterManager();
+        this.animationsManager = new AnimationsManager();
     }
 
     hideLoadingScreen() {
@@ -61,6 +63,11 @@ class PortfolioApp {
             
             // Hide loading screen after all content has loaded
             this.hideLoadingScreen();
+
+            // Initialize animations after content is loaded
+            setTimeout(() => {
+                this.animationsManager.init();
+            }, 100);
 
         } catch (error) {
             console.error('Error initializing portfolio:', error);
