@@ -51,7 +51,7 @@ I love understanding how systems work under the hood, experimenting, and constan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
