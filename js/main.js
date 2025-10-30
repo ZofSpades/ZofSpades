@@ -2,7 +2,6 @@
 import { ConfigManager } from './config-manager.js';
 import { SEOManager } from './seo-manager.js';
 import { ThemeManager } from './theme-manager.js';
-import { LoadingManager } from './loading-manager.js';
 import { SectionManager } from './section-manager.js';
 import { HeaderManager } from './header-manager.js';
 import { GitHubProjectsManager } from './github-projects-manager.js';
@@ -13,11 +12,24 @@ class PortfolioApp {
         this.configManager = new ConfigManager();
         this.seoManager = new SEOManager();
         this.themeManager = new ThemeManager();
-        this.loadingManager = new LoadingManager();
         this.sectionManager = new SectionManager(this.configManager);
         this.headerManager = new HeaderManager();
         this.githubProjectsManager = new GitHubProjectsManager();
         this.footerManager = new FooterManager();
+    }
+
+    hideLoadingScreen() {
+        const loadingScreen = document.getElementById('loading-screen');
+        const mainContent = document.getElementById('main-content');
+        
+        if (loadingScreen) {
+            loadingScreen.classList.add('hidden');
+        }
+        
+        if (mainContent) {
+            mainContent.classList.remove('content-hidden');
+            mainContent.classList.add('content-visible');
+        }
     }
 
     async init() {
@@ -48,11 +60,11 @@ class PortfolioApp {
             }
             
             // Hide loading screen after all content has loaded
-            this.loadingManager.hideLoadingScreen();
+            this.hideLoadingScreen();
 
         } catch (error) {
             console.error('Error initializing portfolio:', error);
-            this.loadingManager.hideLoadingScreen(false);
+            this.hideLoadingScreen();
         }
     }
 }

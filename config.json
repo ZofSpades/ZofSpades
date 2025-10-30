@@ -1,18 +1,18 @@
 {
   "features": {
     "about": true,
-    "projects": true,
-    "experience": true,
+    "projects": false,
+    "experience": false,
     "skills": true,
     "github_projects": true
   },
   "site": {
     "title": "Varun Rathod",
-    "description": "Developer Portfolio",
+    "description": "Full-Stack & Systems Developer",
     "seo": {
-      "title": "Varun Rathod - Developer Portfolio",
-      "description": "Developer Portfolio of Varun Rathod",
-      "keywords": "developer, portfolio, github",
+      "title": "Varun Rathod - Full-Stack & Systems Developer",
+      "description": "B.Tech CSE student at PES University specializing in full-stack development, systems programming, and cybersecurity.",
+      "keywords": "full-stack developer, systems programming, Python, C, Dart, Flutter, JavaScript, React, Node.js, cybersecurity, PES University",
       "author": "Varun Rathod",
       "og_image": "https://avatars.githubusercontent.com/ZofSpades",
       "twitter_card": "summary_large_image",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "Varun Rathod",
-    "tagline": "Developer and Creator."
+    "tagline": "Breaking, Building, Securing Systems"
   },
   "social_links": [
     {
@@ -29,92 +29,91 @@
       "url": "https://github.com/ZofSpades",
       "icon": "github",
       "required": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/varunrathod07",
+      "icon": "linkedin"
     }
   ],
   "github_username": "ZofSpades",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
-      "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
-    ]
-  },
-  "projects": {
-    "title": "Featured Projects",
-    "items": [
-      {
-        "name": "Portfolio Website",
-        "date": "July 19, 2025",
-        "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
-        ],
-        "picture": "assets/projects/Placeholder.png",
-        "link": {
-          "url": "https://ZofSpades.github.io/zofspades.github.io",
-          "title": "View Live Site"
-        }
-      }
-    ]
-  },
-  "experience": {
-    "title": "Professional Experience",
-    "jobs": [
-      {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
-        "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
-        ],
-        "logo": "assets/logos/Placeholder_Logo.png",
-        "logo_dark": "assets/logos/Placeholder_Logo.png"
-      }
+      "Hi! I'm Varun Rathod, a Computer Science undergraduate at PES University passionate about building technology from the ground up — and securing it. I work across the full spectrum: systems programming, full-stack development, mobile apps, and applied machine learning.",
+      "I've built secure VoIP systems with raw sockets, developed Linux kernel modules, created full-stack platforms (PESUbytes), mobile apps in Flutter (Leetingo), and trained many ML models too. Currently expanding into cybersecurity and security-focused AI — exploring threat detection, anomaly analysis, and secure automation through CTFs and hands-on projects.",
+      "I value continuous learning, clean and secure engineering, and ethical innovation. Always open to connecting with people in tech, research, and security communities!"
     ]
   },
   "skills": {
     "title": "Skills & Technologies",
     "categories": [
       {
-        "name": "Programming Languages & Technologies",
+        "name": "Programming Languages",
         "items": [
-          "JavaScript",
           "Python",
-          "Java",
-          "TypeScript"
+          "C",
+          "Dart",
+          "JavaScript",
+          "TypeScript",
+          "SQL"
         ]
       },
       {
-        "name": "Tools & Platforms",
+        "name": "Web & Mobile",
         "items": [
-          "Git",
-          "GitHub",
-          "VS Code",
-          "Docker"
+          "React",
+          "Flutter",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "REST APIs",
+          "GraphQL"
+        ]
+      },
+      {
+        "name": "Systems Programming",
+        "items": [
+          "Linux Kernel Modules",
+          "Network Programming",
+          "VoIP Systems",
+          "OS Internals"
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          "Git & Docker",
+          "Machine Learning",
+          "Compiler Design",
+          "Cybersecurity & CTF",
+          "Android Development",
+          "SEO"
+        ]
+      },
+      {
+        "name": "Achievements & CTFs",
+        "items": [
+          "Top 15 - PBCTF 4.0 (Point Blank, DSU)",
+          "4th Place - Codefusion Hackathon + CTF (IEEE)",
+          "Top 10 - Kalpana Hackathon (IEEE)",
+          "Code Red CTF Participant (NIT-K)"
         ]
       },
       {
         "name": "Certifications",
         "items": [
-          {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
-          },
-          "You can also add certifications without links"
+          "Introduction to Cybersecurity (Cisco)",
+          "Introduction to Machine Learning (PESU I/O)"
         ]
       }
     ]
   },
   "github_projects": {
-    "title": "Projects on GitHub"
+    "title": "More Projects on GitHub"
   },
   "footer": {
     "show_social_links": true,
-    "show_built_with": true,
-    "built_with_text": "Built with ❤️ using vanilla JavaScript",
-    "tagline": "Let's connect and build something amazing together!"
+    "show_built_with": false,
+    "tagline": "Always open to connecting with people in tech, research, and security communities. Let's connect and grow together!"
   }
 }

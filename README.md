@@ -1,35 +1,27 @@
-## 🚀 Next Steps
-
-1. ❌ **Update repository name to `ZofSpades.github.io`** (Current: `zofspades.github.io`)
-2. **Update [`config.json`](https://github.com/ZofSpades/zofspades.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/ZofSpades/zofspades.github.io/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/ZofSpades/zofspades.github.io/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/ZofSpades?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/ZofSpades/zofspades.github.io/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
-
----
-
 # Varun Rathod - Developer Portfolio
 
 <div align="left">
-  
+
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://ZofSpades.github.io/zofspades.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ZofSpades)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunrathod07)
 
 </div>
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+## 👨‍💻 About Me
 
-## ✨ Features
+3rd year B.Tech CSE student at PES University | Full-Stack & Systems Developer
 
-- 🎨 **Modern Design** - Clean, responsive interface with dark/light theme support
-- 🚀 **Performance Optimized** - Fast loading with vanilla JavaScript
-- 📱 **Mobile First** - Fully responsive across all devices
-- 🔄 **Auto-Updated** - Content dynamically generated from `config.json`
-- 🎭 **Interactive** - Smooth animations and engaging user experience
-- 🌓 **Dark/Light Mode** - Smooth transitions with persistent preferences
-- 🔗 **Dynamic Social Links** - Configurable social media and professional links
-- ⚙️ **Zero Code Changes** - Everything configured through JSON
+**Tagline:** Breaking, Building, Securing Systems
+
+## ✨ Portfolio Features
+
+- 🎨 Modern, responsive design with dark/light theme
+- 🚀 Fast loading with vanilla JavaScript
+- 📱 Mobile-first approach
+- 🔄 Dynamic content from `config.json`
+- � Persistent theme preferences
+- 🔗 GitHub projects integration
 
 ## 📈 GitHub Stats
 
@@ -43,11 +35,18 @@ Welcome to my developer portfolio! This website showcases my projects, skills, a
 
 ## 🤝 Connect
 
-Let's connect and build something amazing together!
+Let's connect and build something amazing!
 
 - 🌐 **Portfolio**: [https://ZofSpades.github.io/zofspades.github.io](https://ZofSpades.github.io/zofspades.github.io)
 - 💻 **GitHub**: [https://github.com/ZofSpades](https://github.com/ZofSpades)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/varunrathod07](https://www.linkedin.com/in/varunrathod07)
 
----
+## 🛠️ Tech Stack
 
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
+**Languages:** Python, C, Dart, JavaScript, TypeScript, SQL
+
+**Web & Mobile:** React, Flutter, Node.js, Express.js, MongoDB, REST APIs, GraphQL
+
+**Systems:** Linux Kernel Modules, Network Programming, VoIP Systems, OS Internals
+
+**Other:** Git, Docker, Machine Learning, Compiler Design, Cybersecurity & CTF
