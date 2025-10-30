@@ -51,10 +51,10 @@ I love understanding how systems work under the hood, experimenting, and constan
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades\&theme=tokyonight\&hide_border=true\&layout=compact\&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZofSpades\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZofSpades&theme=tokyonight&hide_border=true)
 
 </div>
