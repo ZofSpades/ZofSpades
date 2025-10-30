@@ -1,52 +1,60 @@
-# Varun Rathod - Developer Portfolio
+<div align="center">
 
-<div align="left">
+# Hi, I'm Varun Rathod 👋
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://zofspades.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/ZofSpades)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varunrathod07)
-
-</div>
-
-## 👨‍💻 About Me
-
-3rd year B.Tech CSE student at PES University | Full-Stack & Systems Developer
-
-**Tagline:** Breaking, Building, Securing Systems
-
-## ✨ Portfolio Features
-
-- 🎨 Modern, responsive design with dark/light theme
-- 🚀 Fast loading with vanilla JavaScript
-- 📱 Mobile-first approach
-- 🔄 Dynamic content from `config.json`
-- � Persistent theme preferences
-- 🔗 GitHub projects integration
-
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://zofspades.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/varunrathod07)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ZofSpades)
 
 </div>
 
-## 🤝 Connect
+---
 
-Let's connect and build something amazing!
+## 🚀 About Me
 
-- 🌐 **Portfolio**: [https://zofspades.github.io/Portfolio/](https://zofspades.github.io/Portfolio/)
-- 💻 **GitHub**: [https://github.com/ZofSpades](https://github.com/ZofSpades)
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/varunrathod07](https://www.linkedin.com/in/varunrathod07)
+Hi! I'm **Varun Rathod**, a Computer Science undergraduate passionate about **building technology from scratch and securing it**. My work spans:
+
+* 🛠️ Software Development
+* 🧵 Systems & Network Programming
+* 🔐 Cybersecurity & CTFs
+* 🤖 Applied Machine Learning (including security‑driven ML)
+* 📱 Full‑stack & Mobile engineering
+
+I love understanding how systems work under the hood, experimenting, and constantly pushing into deeper layers of computing.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, Dart, JavaScript, TypeScript, SQL
+**Languages:** Python • C • Dart • JavaScript • TypeScript • SQL
 
-**Web & Mobile:** React, Flutter, Node.js, Express.js, MongoDB, REST APIs, GraphQL
+**Web & Mobile:** React • Flutter • Node.js • Express.js • MongoDB • REST • GraphQL
 
-**Systems:** Linux Kernel Modules, Network Programming, VoIP Systems, OS Internals
+**Systems:** Linux • Kernel Modules • Sockets • OS Internals • Networking
 
-**Other:** Git, Docker, Machine Learning, Compiler Design, Cybersecurity & CTF
+**Security & AI:** Cybersecurity • CTFs • Threat Detection ML • Secure Communication Systems
+
+**Tools:** Git • Docker • Makefiles • Linux CLI
+
+---
+
+## 🌱 Currently Exploring
+
+* Network security & ethical hacking
+* Threat detection with ML
+* Advanced kernel internals
+* CTF & vulnerability research
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZofSpades\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades\&theme=tokyonight\&hide_border=true\&layout=compact\&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZofSpades\&theme=tokyonight\&hide_border=true)
+
+</div>

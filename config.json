@@ -108,9 +108,6 @@
       }
     ]
   },
-  "github_projects": {
-    "title": "More Projects on GitHub"
-  },
   "footer": {
     "show_social_links": true,
     "show_built_with": false,
