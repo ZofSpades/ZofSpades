@@ -55,6 +55,6 @@ I love understanding how systems work under the hood, experimenting, and constan
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZofSpades&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZofSpades&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZofSpades&theme=tokyonight&hide_border=true)
 
 </div>
