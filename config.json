@@ -4,7 +4,7 @@
     "projects": false,
     "experience": false,
     "skills": true,
-    "github_projects": true
+    "github_projects": false
   },
   "site": {
     "title": "Varun Rathod",
